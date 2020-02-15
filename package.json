@@ -1,0 +1,25 @@
+{
+  "name": "com.phonegap.plugins.fileopener",
+  "version": "0.0.3",
+  "description": "FileOpener plugin for Phonegap =============",
+  "cordova": {
+    "id": "com.phonegap.plugins.fileopener",
+    "platforms": [
+      "android",
+      "wp8"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-wp8"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC"
+}
